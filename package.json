@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint './src/**/*.{ts,tsx,js,jsx}'",
-    "eslint --fix": "eslint --fix './src/**/*.{ts,tsx,js,jsx}'",
+    "eslint:fix": "eslint --fix './src/**/*.{ts,tsx,js,jsx}'",
     "prettier": "prettier --write --config ./.prettierrc './src/**/*.{ts,tsx}'"
   },
   "eslintConfig": {
